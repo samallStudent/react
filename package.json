@@ -1,7 +1,7 @@
 {
-  "name": "react-family",
-  "version": "1.0.0",
-  "description": "",
+  "name": "{{projectName}}",
+  "version": "{{projectVersion}}",
+  "description": "{{projectDescription}}",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "antd": "^3.4.3",
-    "react": "^16.3.2",
+    "react": "{{supportUiVersion}}",
     "react-dom": "^16.3.2",
     "react-redux": "^5.0.7",
     "react-router": "^4.2.0",
