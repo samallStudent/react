@@ -1,0 +1,4 @@
+{{#unless supportMacawAdmin}}
+build\
+package-lock.json
+{{/unless}}
